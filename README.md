@@ -10,12 +10,21 @@
 </div>
 
 <div align="center">
-  <h2>📫 Connect With Me</h2>
+   <h2>🤝 Let's Connect & Collaborate!</h2>
   
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauerneves@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caue-neves/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caue-neves)
+  <div style="display: inline-block; margin: 15px;">
+    <a href="mailto:caues.dev@gmail.com" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&border=0" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/cauesneves/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border=0" alt="LinkedIn"/>
+    </a>
+    <a href="https://instagram.com/cauezin_s/" style="text-decoration: none; margin: 5px;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border=0" alt="Instagram"/>
+    </a>
+  </div>
 </div>
+
 
 
 <div align="center">
